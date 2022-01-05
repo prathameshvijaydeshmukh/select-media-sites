@@ -1,0 +1,65 @@
+    html body {
+        background-color: #d6e7e9;
+    }
+    
+    .header {
+        height: 100px;
+    }
+    
+    .text-center {
+        position: fixed;
+        margin-top: 65px;
+        margin-left: 420px;
+    }
+    
+    .image1 {
+        position: relative;
+    }
+    
+    .image1 img {
+        width: 30px;
+        height: 30px;
+        float: right;
+        margin-top: 25px;
+        margin-right: -70px;
+    }
+    
+    .card {
+        margin-top: 25px;
+        margin-left: 50%;
+        align-content: center;
+        height: 350px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        transition: 0.3s;
+    }
+    
+    .rightside {
+        margin-top: 25px;
+        margin-left: -5px;
+        margin-right: 50%;
+        align-content: center;
+        height: 350px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        transition: 0.3s;
+    }
+    
+    .card img {
+        width: 166px;
+        margin-left: 55px;
+        margin-top: 10px;
+        margin-bottom: -25px;
+        border-style: none;
+    }
+    
+    .card-body .card-title {
+        margin-bottom: 0.75rem;
+        text-align: center;
+    }
+    
+    .card-title {
+        font-size: inherit
+    }
+    
+    .card-text {
+        font-size: 13px;
+    }
